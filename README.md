@@ -1,2 +1,2 @@
-# grind
-A repo containg codes for dsa, bfe.dev, greatfrontend.dev grinding
+# 粉砕する (Grind)
+A repo to capture my code grinding timeline
